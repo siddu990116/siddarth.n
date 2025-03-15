@@ -74,7 +74,7 @@ justify-content: center;
  .progress{
    height: 8px;
    width: 100%;
-   background:#ddd;
+  background-color: white;
    border-radius: 5px;
    overflow: hidden;
  }
